@@ -12,7 +12,7 @@
    <img align="center" alt="Felipe-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="Felipe-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-   <a target=_blank href="https://www.deviantart.com/mizartz"><img align="right" alt="vivi-gif" height="150"  src="vivi.gif" /></a>
+   <a target="_blank" href="https://www.deviantart.com/mizartz"><img align="right" alt="vivi-gif" height="150"  src="vivi.gif" /></a>
    
 </div>  
 
