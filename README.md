@@ -4,7 +4,6 @@
 - Javeiro que também gosta de mexer com front e arranha alguma coisa em ops
 - Como consigo trabalhar em três áreas distintas? Simples, sendo ruim em todas (brincadeira (ou não?))
 - No momento aprendendo react e melhorando meus conceitos em shell e docker
-
 <div style="display: inline_block;"><br>
    <img align="center" alt="Felipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="Felipe-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
@@ -14,7 +13,8 @@
    <img align="center" alt="Felipe-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>  
-##
+
+   ##
 
 
 <div align="center">
