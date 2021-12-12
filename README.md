@@ -12,6 +12,8 @@
    <img align="center" alt="Felipe-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="Felipe-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+   <img align="right" alt="vivi-gif" height="150" style="border-radius:50px" src=" https://64.media.tumblr.com/77903f848d50600f0549e9aa6d979e0c/tumblr_pxl6x0Q0Pt1x8txmho1_640.gifv" />
+   
 </div>  
 
    ##
