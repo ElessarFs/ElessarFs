@@ -25,3 +25,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElessarFs&layout=compact&hide=php&theme=gotham"/> 
  </div>
   
+
+  ![Snake animation](https://github.com/ElessarFs/ElessarFs/blob/output/github-contribution-grid-snake.svg)
