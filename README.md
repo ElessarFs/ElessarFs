@@ -7,7 +7,7 @@
 
 ##
 
-<div style="display: inline_block; padding: 5px;"><br>
+<div style="display: inline_block;"><br>
    <img align="center" alt="Felipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="Felipe-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
    <img align="center" alt="Felipe-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -19,7 +19,7 @@
 
 </div>  
 
-<div align="center" style="margin-top: 1em;">
+<div align="center" style="margin-top: 3em;">
   <a href="https://github.com/ElessarFs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElessarFs&count_private=true&show_icons=true&theme=gotham"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElessarFs&layout=compact&hide=php&theme=gotham"/> 
