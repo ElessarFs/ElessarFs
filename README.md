@@ -19,7 +19,7 @@
 
 </div>  
 
-<div align="center">
+<div align="center" style="margin-top: 1em;">
   <a href="https://github.com/ElessarFs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElessarFs&count_private=true&show_icons=true&theme=gotham"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElessarFs&layout=compact&hide=php&theme=gotham"/> 
